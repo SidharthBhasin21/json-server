@@ -1,19 +1,19 @@
 {
-  "solution": [
-    { "id": 1, "word": "smash" },
-    { "id": 2, "word": "blend" },
-    { "id": 3, "word": "swift" },
-    { "id": 4, "word": "build" },
-    { "id": 5, "word": "sweet" },
-    { "id": 6, "word": "brush" },
-    { "id": 7, "word": "spoon" },
-    { "id": 8, "word": "crush" },
-    { "id": 9, "word": "stare" },
-    { "id": 10, "word": "steal" },
-    { "id": 11, "word": "steep" },
-    { "id": 12, "word": "stern" },
-    { "id": 13, "word": "stony" },
-    { "id": 14, "word": "strip" },
-    { "id": 15, "word": "stuck" }
-  ]
-}
+    "solutions": [
+      {"id": 1, "word": "smash"},
+      {"id": 2, "word": "spade"},
+      {"id": 3, "word": "pools"},
+      {"id": 4, "word": "drive"},
+      {"id": 5, "word": "relax"},
+      {"id": 6, "word": "times"},
+      {"id": 7, "word": "train"},
+      {"id": 8, "word": "cores"},
+      {"id": 9, "word": "pours"},
+      {"id": 10, "word": "blame"},
+      {"id": 11, "word": "banks"},
+      {"id": 12, "word": "phone"},
+      {"id": 13, "word": "bling"},
+      {"id": 14, "word": "coins"},
+      {"id": 15, "word": "hello"}
+    ]
+  }
